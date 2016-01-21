@@ -1,0 +1,635 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"li",
+				"link	Tag"
+			],
+			[
+				"wri",
+				"writeHead"
+			],
+			[
+				"img",
+				"imgCerrar"
+			],
+			[
+				"prop",
+				"propVal"
+			],
+			[
+				"ob",
+				"obtenerObjeto"
+			],
+			[
+				"my",
+				"mysql_query"
+			],
+			[
+				"fun",
+				"function	funcionPHP"
+			],
+			[
+				"func",
+				"function	funcionPHP"
+			],
+			[
+				"MY",
+				"mysql_connect"
+			],
+			[
+				"appe",
+				"appendChild"
+			],
+			[
+				"cre",
+				"createElement"
+			],
+			[
+				"this",
+				"this.function	funciónJSclase"
+			],
+			[
+				"class",
+				"classMain"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "primero.sublime-project",
+			"settings":
+			{
+				"buffer_size": 45,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "index.js",
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 173.0,
+		"last_filter": "sshtml",
+		"selected_items":
+		[
+			[
+				"sshtml",
+				"Set Syntax: HTML"
+			],
+			[
+				"sscss",
+				"Set Syntax: CSS"
+			],
+			[
+				"rein",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"ssjav",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"Pac",
+				"Preferences: Browse Packages"
+			],
+			[
+				"sssql",
+				"Set Syntax: SQL"
+			],
+			[
+				"reinden",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"inden",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"indent",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"indet",
+				"Indentation: Convert to Spaces"
+			],
+			[
+				"indend",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"Snippet: ",
+				"Snippet: funciónJSclase"
+			]
+		],
+		"width": 400.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/D/sistemas/web/juegos/primero"
+	],
+	"file_history":
+	[
+		"/C/Users/JohanMaximus/Desktop/platformer.capx",
+		"/D/xampp/htdocs/buscomusico/definiciones tablas.txt",
+		"//192.168.0.101/finanzas/public/js/render.js",
+		"//192.168.0.101/finanzas/game.js",
+		"//192.168.0.101/finanzas/game.html",
+		"/C/Users/JohanMaximus/Desktop/cocos2d-x-3.9/web/template/main.js",
+		"/D/sistemas/web/juegos/primero/index.js",
+		"//192.168.0.101/finanzas/image.jpg",
+		"//192.168.0.101/finanzas/HISTORY.md",
+		"//192.168.0.101/finanzas/index.html",
+		"//192.168.0.101/finanzas/index.js",
+		"//192.168.0.101/finanzas/Makefile",
+		"//192.168.0.101/finanzas/Nuevo documento de texto.txt",
+		"//192.168.0.101/finanzas/LICENSE",
+		"//192.168.0.101/finanzas/README.md",
+		"//192.168.0.101/finanzas/.gitignore",
+		"//192.168.0.101/finanzas/.npmignore",
+		"//192.168.0.101/finanzas/.travis.yml",
+		"//192.168.0.101/finanzas/chat.js",
+		"//192.168.0.101/finanzas/conf.json",
+		"//192.168.0.101/finanzas/public/js/game.js",
+		"//192.168.0.101/finanzas/public/index.html",
+		"//192.168.0.101/finanzas/server.js",
+		"//192.168.0.101/finanzas/css/base.css",
+		"//192.168.0.101/finanzas/node_modules/express/index.js",
+		"//192.168.0.101/finanzas/client/render.js",
+		"//192.168.0.101/finanzas/client/game.js",
+		"//192.168.56.101/finanzas/server.js",
+		"//192.168.56.101/finanzas/index.html",
+		"//192.168.56.101/finanzas/node_modules/node-ini/node-ini.js",
+		"//192.168.56.101/finanzas/node_modules/charenc/charenc.js",
+		"//192.168.56.101/finanzas/servers.js",
+		"//192.168.56.101/finanzas/sys/request.js",
+		"//192.168.56.101/finanzas/sys/index.html",
+		"/D/xampp/htdocs/buscomusico/sys/js/main.js",
+		"/D/sitios/finanzas/config/app.php",
+		"/D/sitios/finanzas/config/app.default.php",
+		"/D/sitios/finanzas/vendor/robmorgan/phinx/tests/Phinx/Config/_files/no_default_database_key.yml",
+		"/C/Users/JohanMaximus/Desktop/node-v4.2.3/node-v4.2.3/deps/cares/build/gcc_version.py",
+		"/C/Users/JohanMaximus/Desktop/node-v4.2.3/node-v4.2.3/deps/http_parser/http_parser.c",
+		"/C/Users/JohanMaximus/Desktop/node-v4.2.3/node-v4.2.3/benchmark/common.js",
+		"/C/Users/JohanMaximus/Desktop/webComponents.html",
+		"/D/sitios/finanzas/webroot/index.php",
+		"/D/sitios/finanzas/index.php",
+		"/C/Users/JohanMaximus/AppData/Roaming/Toontrack/EZdrummer/MidiDB_fav",
+		"/C/Users/JohanMaximus/AppData/Roaming/Toontrack/EZdrummer/MidiDB",
+		"/C/Users/JohanMaximus/AppData/Local/Temp/EZdrummer/Version 2.0.1 (build 9238) [32-bit VST]-20151123-205335.dmp",
+		"/H/Contents/InstallConfig",
+		"/C/Users/JohanMaximus/Desktop/R2RAUTH.ttauth",
+		"/C/Users/JohanMaximus/Desktop/la-hora.mid.mid",
+		"/C/Program Files/Native Instruments/Service Center/conf/i18n/pal_eng.xml",
+		"/C/Program Files/Native Instruments/Service Center/conf/ProductHints.xml",
+		"/C/Program Files/Common Files/Native Instruments/Service Center/Kontakt 5 App.xml",
+		"/C/Program Files/Common Files/Native Instruments/Service Center/ProductHints.xml",
+		"/C/Program Files/Common Files/Native Instruments/Service Center/Action Strikes.xml",
+		"/C/Program Files/Common Files/Native Instruments/Action Strikes/PAResources/image/Action Strikes/Action Strikes.meta",
+		"/C/Program Files/Common Files/Native Instruments/Action Strikes/PAResources/database/PAL/PAL.meta",
+		"/C/Program Files/Common Files/Native Instruments/Kontakt 5/Database/Kontakt 5 Factory Presets.kdb",
+		"/C/Program Files/Common Files/Native Instruments/Kontakt 5/Database/Default.kad",
+		"/D/sitios/finanzas/config/bootstrap.php",
+		"/C/Users/JohanMaximus/Documents/todoELputoRegistro.reg",
+		"/D/sitios/finanzas/vendor/cakephp/cakephp/src/Network/Session/DatabaseSession.php",
+		"/D/sitios/finanzas/moduloPrincipal.js",
+		"/D/sitios/finanzas/sys/cls/class.utils.php",
+		"/D/sitios/finanzas/cache.php",
+		"/C/Users/JohanMaximus/Documents/todoELputoRegistro2.reg",
+		"/D/sitios/finanzas/abm/conceptos/index.php",
+		"/D/sitios/finanzas/sys/cls/class.db.php",
+		"/D/sitios/finanzas/sys/inc/js_crearObjetosEnCache.php",
+		"/D/sitios/finanzas/ejemploObtenerInfoSetParametros.php",
+		"/D/xampp/htdocs/buscomusico/index.php",
+		"/D/xampp/htdocs/buscomusico/acciones.php",
+		"/D/xampp/htdocs/buscomusico/moduloLogin.php",
+		"/D/xampp/htdocs/games/js/babylon.max.js",
+		"/D/sitios/finanzas/sys/cls/db.class.php",
+		"/C/Users/JohanMaximus/Documents/netstat",
+		"/D/xampp/apache/conf/extra/httpd-vhosts.conf",
+		"/C/Users/JohanMaximus/Documents/pingAGoogle.txt",
+		"/D/xampp/apache/conf/httpd.conf",
+		"/D/xampp/apache/conf/extra/httpd-proxy.conf",
+		"/C/Windows/System32/drivers/etc/hosts",
+		"/D/xampp/php/php.ini",
+		"/D/xampp/apache/logs/buscomusico.com.ar.log",
+		"/D/sistemas/web/ejemplos/webcam/WebRTC  Still photo capture demo_archivos/main.css",
+		"/D/sistemas/web/ejemplos/webcam/WebRTC  Still photo capture demo_archivos/capture.js",
+		"/D/sistemas/web/ejemplos/webcam/WebRTC  Still photo capture demo.htm",
+		"/C/Users/JohanMaximus/AppData/Roaming/WizardWars1/user_settings.config",
+		"/C/Users/JohanMaximus/Desktop/color.theme",
+		"/C/Windows/Resources/Themes/color/en-US/color.msstyles.mui",
+		"/C/Windows/Resources/Themes/color/aero.msstyles",
+		"/C/Windows/Resources/Themes/color/aerolite.msstyles",
+		"/C/Users/JohanMaximus/AppData/Roaming/WizardWars/user_settings.config",
+		"/C/Users/JohanMaximus/AppData/Roaming/WizardWars/CurseVoice.json",
+		"/E/VST Instalaciones/ARIA Sounds - Violinist (KONTAKT)/ARIA Violinist Staccato.nki",
+		"/E/VST Instalaciones/ARIA Sounds - Violinist (KONTAKT)/ARIA Violinist.nki",
+		"/D/xampp/htdocs/Eshopper/sendemail.php",
+		"/D/xampp/htdocs/Eshopper/index.html",
+		"/D/xampp/htdocs/Eshopper/css/main.css",
+		"/C/Users/JohanMaximus/Desktop/404.txt",
+		"/C/Users/JohanMaximus/Downloads/eshopper/Eshopper/index.html",
+		"/C/Users/JohanMaximus/Downloads/eshopper/Eshopper/css/responsive.css",
+		"/C/Users/JohanMaximus/Downloads/eshopper/Eshopper/css/main.css",
+		"/C/Users/JohanMaximus/Documents/3DMark 11/default.3dmark-11-result",
+		"/C/Users/JohanMaximus/Downloads/favicons/browserconfig.xml",
+		"/C/Users/JohanMaximus/Downloads/favicons/manifest.json",
+		"/D/xampp/htdocs/Eshopper/css/responsive.css",
+		"/D/xampp/htdocs/Eshopper/css/bootstrap.min.css",
+		"/D/xampp/htdocs/Eshopper/css/font-awesome.min.css",
+		"/H/WEB/webSocket/ws.js",
+		"/D/xampp/htdocs/buscomusico/sys/css/semantic.ui.css",
+		"/C/Users/JohanMaximus/Downloads/aaa elemental lords_0001/aaa elemental lords/Age of Mythology/data/techtreex.xml",
+		"/C/Users/JohanMaximus/Downloads/aaa elemental lords_0001/aaa elemental lords/Age of Mythology/data/protox.xml",
+		"/C/Users/JohanMaximus/Desktop/template_52891_021y8X9gqdkDF0kIh9NE/theme509/theme509((full))/index.php",
+		"/C/Users/JohanMaximus/Downloads/aaa elemental lords_0001/aaa elemental lords/Age of Mythology/sound/soundsets-xpack.xml",
+		"/C/Users/JohanMaximus/Downloads/aaa elemental lords_0001/aaa elemental lords/Age of Mythology/data/techtreex.xmb",
+		"/D/xampp/htdocs/games/INDEX.HTML",
+		"/C/Users/JohanMaximus/Desktop/Capture Log.prof",
+		"/F/xampp/mysql/resetroot.bat",
+		"/F/xampp/mysql/bin/my.ini",
+		"/D/xampp/mysql/bin/my.ini",
+		"/D/xampp/htdocs/buscomusico/inc/seguridad.php",
+		"/D/xampp/htdocs/buscomusico/sys/css/reset.css",
+		"/D/xampp/htdocs/buscomusico/sys/css/mensajes.css",
+		"/D/xampp/htdocs/buscomusico/sys/cls/class.db.php",
+		"/D/xampp/htdocs/buscomusico/sys/css/main.css",
+		"/D/xampp/htdocs/buscomusico/sys/cls/class.error.php",
+		"/d/xampp/mysql/bin/mysqlhotcopy.pl",
+		"/D/xampp/mysql/data/mysql_error.log"
+	],
+	"find":
+	{
+		"height": 26.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+			"D:\\sitios\\finanzas",
+			"D:\\xampp\\htdocs\\Eshopper",
+			"d:\\xampp\\",
+			"H:\\xampp\\htdocs\\buscomusico\\linkImage\\sys\\js",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"myGame",
+			"action",
+			"action s",
+			"product version",
+			"action",
+			"instrument",
+			"action",
+			"strike",
+			"my_app",
+			"pass",
+			"(\\n\\[.*\\]\\n.*Native instrument.*\\n)",
+			"(\\n\\[.*\\]\\n.*Native instrument.*\\n)(.*\\n)",
+			"(\\n\\[.*\\]\\n.*Native instrument.*\\n)(.*\\n){9}",
+			"(\\n\\[.*\\]\\n.*Native instrument.*\\n)(.*\\n)",
+			"(\\n\\[.*\\]\\n.*Native instrument.*\\n)(.*\\n)*",
+			"\\n\\[.*\\]\\n.*Native instrument.*\\n.*",
+			"\\n\\[.*\\]\\n.*Native instrument.*\\n\\n",
+			"\\n\\[.*\\]\\n.*Kontakt.*\\n\\n",
+			"kontakt",
+			"Login",
+			"classLogin",
+			"modulo",
+			"->$cnn",
+			"->cnn",
+			"cnn",
+			"G_CONNECION",
+			"<Directory />",
+			"Deny from all",
+			":80",
+			":81",
+			"Virtual hosts",
+			"80",
+			"240",
+			"320",
+			"240",
+			"340px",
+			"320",
+			"240",
+			"320",
+			"F0F0E9",
+			"#D6D6D0",
+			"none repeat scroll 0 0 #F0F0E9",
+			"header-middle",
+			"FFC107",
+			"B2B2B2",
+			"#FFF;",
+			"images/home/logo.png",
+			"\\[.*",
+			"\\,.*",
+			" ",
+			"\\..*",
+			"\\n\\n",
+			"\\(.*",
+			" ",
+			":.*",
+			"ú",
+			"ó",
+			"í",
+			"é",
+			"á",
+			"left-sidebar",
+			"product-overlay",
+			"test",
+			"information_schema",
+			"webauth",
+			"mysqli",
+			"mysql",
+			"web: ",
+			"cata",
+			"utf",
+			"AddDefaultCharset",
+			"virtual ",
+			"MSBuildToolsVersion",
+			"vc",
+			"wm",
+			"wav",
+			"mp3",
+			"webm",
+			"mp4",
+			"avi",
+			"mpeg",
+			"h1",
+			"font",
+			"h1",
+			"text-shado",
+			"shadow",
+			"font",
+			"bs-docs",
+			"masthead",
+			"bs-docs-masthead",
+			"fluid",
+			"container-fluid",
+			"titulo",
+			"logPos",
+			"v_posX",
+			"logPos",
+			"v_posX",
+			"dom_getstyle",
+			"esIE",
+			"dom_getStyle",
+			"distXY",
+			"esIE()",
+			"esIE",
+			"obtAlto",
+			"center",
+			"SetData",
+			"sete",
+			"odbcRecordset",
+			"G_CONNECION",
+			"G_CONNECTION",
+			";\n",
+			"input",
+			"cO(",
+			"cNT"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"this",
+			"",
+			"Principal",
+			"classPrincipal",
+			"->cnn",
+			"tipo_conexion",
+			":80",
+			"480",
+			"640",
+			"480",
+			"660px",
+			"640",
+			"480",
+			"FF6F00",
+			"FFC107",
+			"#FFF8E1;",
+			"",
+			"\\n",
+			"",
+			"\\n",
+			"u",
+			"o",
+			"i",
+			"e",
+			"a",
+			"this.titulo",
+			"this.obtenerPropiedadCss",
+			"this.esIE()",
+			"Recordset",
+			"conexion",
+			"cE(",
+			"cTN"
+		],
+		"reverse": false,
+		"show_context": false,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": false
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "primero.sublime-project",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 45,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								17,
+								17
+							]
+						],
+						"settings":
+						{
+							"auto_complete": true,
+							"encoding_helper_encoding": "UTF-8",
+							"encoding_thread_running": true,
+							"syntax": "Packages/JavaScript/JSON.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "index.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"encoding_helper_encoding": "UTF-8",
+							"encoding_thread_running": true,
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": false,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "primero.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

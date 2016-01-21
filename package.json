@@ -1,0 +1,20 @@
+{
+  "name": "primero",
+  "version": "0.0.2",
+  "description": "Mi segundo intento de juego",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.13.3",
+    "game": "^0.1",
+    "mongodb": "^2.1.4",
+    "mongoose": "^4.3.5",
+    "nodemon": "^1.8.1",
+    "socketio": "^1.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "console.log(\"ola k dise\")"
+  },
+  "author": "Johan Maximus",
+  "license": "ISC"
+}

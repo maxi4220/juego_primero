@@ -1,0 +1,24 @@
+Flujo del juego: detalle tecnico
+
+	1- Servidor informa inicio de turno
+	2- Nuevo estado del jugador: seleccionDeMovimiento
+		2.1- El jugador puede moverse, se valida el movimiento
+	3- Servidor informa fin de selección de movimiento
+	4- Cliente informa movimiento realizado
+	5- Servidor calcula las acciones (aplicar los efectos de cada casilla a los jugadores correspondientes)
+	6- Servidor informa las acciones de todos los jugadores
+	7- Cliente realiza el movimiento
+		7.1- Se ejecutan las acciones previamente calculadas por el servidor
+	8- Cliente informa fin de movimiento (fin de animación de todos los jugadores)
+	9- Servidor valida que todos hayan finalizado el movimiento
+	10- Servidor informa nuevo turno o fin de partida (murieron todos los jugadores menos uno)
+
+
+
+
+	1- servidor -> cliente
+	3- servidor -> cliente
+	4- servidor <- cliente
+	6- servidor -> cliente
+	8- servidor <- cliente
+	10- servidor -> cliente
